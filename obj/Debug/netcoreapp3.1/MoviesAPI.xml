@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoviesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MoviesAPI.Controllers.MovieController.SaveMetaData(MoviesAPI.Models.InputModels.MetaDataInputModel)">
+            <summary>
+            Endpoint to Save a new piece of metadata
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MoviesAPI.Controllers.MovieController.GetMetaDataByMovieId(System.Int32)">
+            <summary>
+            Endpoint to return all metadata for a given movie.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
